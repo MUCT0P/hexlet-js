@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MUCT0P/hexlet-js/issues"
   },
-  "homepage": "https://github.com/MUCT0P/hexlet-js#readme"
+  "homepage": "https://github.com/MUCT0P/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
